@@ -4,7 +4,7 @@
 
 
 ```shell
-hivemind
+overmind start
 ```
 
 open [http://localhost:5000/](http://localhost:5000/) in browser
